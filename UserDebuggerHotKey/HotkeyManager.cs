@@ -5,7 +5,7 @@ using System.Threading;
 
 namespace UserDebuggerHotKey
 {
-    // http://stackoverflow.com/questions/3654787/global-hotkey-in-console-application, Joe
+    // http://stackoverflow.com/questions/3654787/global-hotkey-in-console-application, Joe, CC BY-SA 3.0
     public static class HotKeyManager
     {
         [DllImport("user32", SetLastError = true)]
