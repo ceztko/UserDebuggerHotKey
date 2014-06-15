@@ -1,0 +1,3 @@
+User Debugger HotKey 1.0
+-------------------------------
+  * First release
